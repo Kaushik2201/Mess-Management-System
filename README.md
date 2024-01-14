@@ -87,4 +87,7 @@
 * Target SDK Version - 33 which is  ```Android 13```
 
 
-**Screen Shots and Video Demo Comming Soon**
+**Screen Shots - [VISIT](https://drive.google.com/drive/folders/1TOzIbLWU3hR18XpSZ_nQ41wrQu_wCsp7?usp=sharing)**
+
+
+**Video - [VISIT](https://drive.google.com/drive/folders/1dm4N-P6A2HO0ZERKZdPA4hc4DbPBH1hX?usp=sharing)**
