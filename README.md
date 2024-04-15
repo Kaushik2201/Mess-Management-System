@@ -1,4 +1,4 @@
-# Task - Mess Management System
+# Mess Management System
 
 **Features Implemented**
 
@@ -55,21 +55,6 @@
 
 
 **Note :- Admin accounts cannot be registered via a single person it will be done via organization and given to the admin with a sample password which can be changed in future.**
-
-**Features Planned**
-
-***These Features were planned but could not be implemented due to ```Time``` Constraints.***
-
-* Use of ```Hive``` for local storage for the user to view information when the phone is offline.
-* Use of ```BLoC``` for State Management.
-* Allow the Admin to ```Re-Allocat``` the Students to a perticular Mess.
-* More working on ```UI``` to make Application more ```Attractive``` and ```Dynamic```.
-
-
-**List of known bugs**
-
-* Bottom OverFlow
-
 
 **References used**
 
